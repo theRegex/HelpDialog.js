@@ -79,6 +79,6 @@ localStorage.removeItem('insession');
 
 ## Credits
 
-Software designed by [Keinan Pace] https://github.com/theRegex
+Software designed by [Keinan Pace](https://github.com/theRegex)
 
 Thanks for all of your support!
