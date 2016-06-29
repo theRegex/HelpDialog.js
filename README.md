@@ -11,6 +11,9 @@ Tip:
 In ie10+ and Ms edge localStorage/sessionStorage will not work with `file:///` protocol . 
 This will cause plugin to crash in ie/ms if not running on server . 
 
+## Live Demo 
+[View live demo](http://codepen.io/theConstructor/pen/mERwdW)
+
 ## Getting started
 
 Start by adding HelpDialog js and css to your document. 
