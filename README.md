@@ -5,11 +5,12 @@ HelpDialog.js uses native javascript functionality , logic and calculation to ru
 jQuery to function . 
 
 ## Browser support
-HelpDialog.js works browsers IE 10+ , Chrome , Firefox , and Safari
+HelpDialog.js works in browsers IE 10+ , Chrome , Firefox , and Safari
 
 
 ## Getting started
-HelpDialog includes one javascript and css file , these both must be included in head . 
+
+Start by adding HelpDialog js and css to your document. 
 
 
 
