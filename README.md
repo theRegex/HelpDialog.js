@@ -7,6 +7,9 @@ jQuery to function .
 ## Browser support
 HelpDialog.js works in browsers IE 10+ , Chrome , Firefox , and Safari
 
+##Tip :
+
+In ie10+ and Ms edge localStorage/sessionStorage will not work wil `file:///` protocol . 
 
 ## Getting started
 
