@@ -1,4 +1,4 @@
-# HelpDialog.js - Beta
+# HelpDialog.js 
 A simple help solution for showing user how to navigate and interact with with your web application .
 
 HelpDialog.js uses native javascript functionality , logic and calculation to run , this plugin requires no external libraries such as 
