@@ -37,6 +37,7 @@ var helper = new HelpDialog;
 
 ```
 
+## init() 
 
 HelpDialog relies on an array of objects to be passed at initialization , each object must contain a key of id , header , and text.
 
